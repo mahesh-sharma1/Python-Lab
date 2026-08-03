@@ -121,5 +121,5 @@ print(f"{'Complete?':<20} {'Yes':<20} {'No (may go infinite)':<20}")
 print(f"{'Optimal?':<20} {'Yes':<20} {'No':<20}")
 
 print("\n" + "=" * 60)
-print("Program by: [Your Name]")
-print("Roll No: [Your Roll No]")
+print("Program by: [Mahesh Sharma]")
+print("Roll No: [19]")
