@@ -1,6 +1,6 @@
 # Lab: A* Search Algorithm
-# Program by: [Your Name]
-# Roll no: [Your Roll No]
+# Program by: [Mahesh Sharma]
+# Roll no: [19]
 
 # Step 1: Define the Graph (connections with edge costs)
 graph = {
