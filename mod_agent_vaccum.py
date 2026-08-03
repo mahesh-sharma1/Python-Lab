@@ -1,6 +1,6 @@
 # Lab 1: Model-Based Agent for Vacuum Cleaner World
-# Program by: [Your Name]
-# Roll no: [Your Roll No]
+# Program by: [Mahesh Sharma]
+# Roll no: [19]
 
 # Agent's internal memory (model of the world)
 world_model = {"A": "Clean", "B": "Clean"}
@@ -18,8 +18,8 @@ def model_based_agent(location, status):
         return "Do Nothing, all are clean"
 
 print("********** Model-Based Agent **********\n")
-print("Program by: [Your Name]")
-print("Roll no: [Your Roll No]\n")
+print("Program by: [Mahesh Sharma]")
+print("Roll no: [19]\n")
 
 print("Initially, the state model contains:", world_model)
 
