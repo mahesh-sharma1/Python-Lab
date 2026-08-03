@@ -1,6 +1,6 @@
 # Lab: Depth-First Search (DFS) - Iterative
-# Program by: [Your Name]
-# Roll no: [Your Roll No]
+# Program by: [Mahesh Sharma]
+# Roll no: [19]
 
 graph = {
     'A': ['B', 'C'],
@@ -38,5 +38,5 @@ print("DFS Order: ", end='')
 dfs_iterative(visited, graph, 'A')
 print()
 print("=" * 50)
-print("Program by: [Your Name]")
-print("Roll No: [Your Roll No]")
+print("Program by: [Mahesh Sharma]")
+print("Roll No: [19]")
