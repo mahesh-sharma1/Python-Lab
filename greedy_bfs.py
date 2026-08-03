@@ -1,6 +1,6 @@
 # Lab: Greedy Best-First Search
-# Program by: [Your Name]
-# Roll no: [Your Roll No]
+# Program by: [Mahesh Sharma]
+# Roll no: [19]
 
 # Step 1: Define the Graph (connections between nodes)
 graph = {
